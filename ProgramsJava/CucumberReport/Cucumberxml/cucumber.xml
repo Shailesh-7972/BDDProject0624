@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="11.078" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Title of Flipcart" name="Verify login credentials of Guru99 - Example #1.1" time="10.736">
+<system-out><![CDATA[
+Given Open Guru99 login page with UserID Password and Buttons...............passed
+When Enter UserID "mngr574594" and Password "evetyjy".......................passed
+Then Click on the Login button..............................................passed
+And Click on the New Account option.........................................passed
+And Enter Account details...................................................passed
+And Submit details..........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
