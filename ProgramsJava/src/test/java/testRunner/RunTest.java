@@ -1,9 +1,6 @@
 package testRunner;
 
 import org.junit.runner.RunWith;
-
-//import cucumber.api.CucumberOptions;
-//import cucumber.api.junit.Cucumber;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
@@ -20,6 +17,4 @@ plugin = {"pretty","html:CucumbeReport/Cucumberhtml/cucumber.html",
 
 public class RunTest {
 	
-		
-
 }
